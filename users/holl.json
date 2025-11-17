@@ -1,9 +1,10 @@
 {
   "username": "holl",
-  "currentPuzzleIndex": 2,
+  "currentPuzzleIndex": 3,
   "completedPuzzles": [
     1,
-    2
+    2,
+    3
   ],
   "failedPuzzles": [],
   "attempts": {
@@ -21,7 +22,9 @@
     },
     "3": {
       "attemptsRemaining": 2,
-      "answers": []
+      "answers": [
+        "n"
+      ]
     },
     "4": {
       "attemptsRemaining": 2,
