@@ -1,13 +1,14 @@
 {
   "username": "pseudo",
-  "currentPuzzleIndex": 4,
+  "currentPuzzleIndex": 5,
   "completedPuzzles": [
     1,
     3,
     4
   ],
   "failedPuzzles": [
-    2
+    2,
+    5
   ],
   "attempts": {
     "1": {
@@ -81,7 +82,7 @@
       "answers": []
     }
   },
-  "totalFailures": 1,
+  "totalFailures": 2,
   "sessionStartTime": "2025-11-18T23:18:10.274Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
