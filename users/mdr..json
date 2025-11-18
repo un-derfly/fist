@@ -13,8 +13,10 @@
       ]
     },
     "2": {
-      "attemptsRemaining": 2,
-      "answers": []
+      "attemptsRemaining": 1,
+      "answers": [
+        "42"
+      ]
     },
     "3": {
       "attemptsRemaining": 2,
