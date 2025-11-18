@@ -1,10 +1,12 @@
 {
   "username": "Shasha_lyda07",
-  "currentPuzzleIndex": 1,
+  "currentPuzzleIndex": 2,
   "completedPuzzles": [
     1
   ],
-  "failedPuzzles": [],
+  "failedPuzzles": [
+    2
+  ],
   "attempts": {
     "1": {
       "attemptsRemaining": 2,
@@ -13,9 +15,10 @@
       ]
     },
     "2": {
-      "attemptsRemaining": 1,
+      "attemptsRemaining": 0,
       "answers": [
-        "8501"
+        "8501",
+        "8510"
       ]
     },
     "3": {
@@ -71,7 +74,7 @@
       "answers": []
     }
   },
-  "totalFailures": 0,
+  "totalFailures": 1,
   "sessionStartTime": "2025-11-18T23:34:50.347Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
