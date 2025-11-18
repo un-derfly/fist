@@ -1,6 +1,6 @@
 {
   "username": "mdr.",
-  "currentPuzzleIndex": 10,
+  "currentPuzzleIndex": 11,
   "completedPuzzles": [
     1,
     3,
@@ -13,7 +13,8 @@
   ],
   "failedPuzzles": [
     2,
-    7
+    7,
+    11
   ],
   "attempts": {
     "1": {
@@ -85,7 +86,7 @@
       "answers": []
     }
   },
-  "totalFailures": 2,
+  "totalFailures": 3,
   "sessionStartTime": "2025-11-18T20:21:15.157Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
