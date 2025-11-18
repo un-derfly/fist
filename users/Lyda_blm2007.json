@@ -62,8 +62,10 @@
       ]
     },
     "8": {
-      "attemptsRemaining": 3,
-      "answers": []
+      "attemptsRemaining": 2,
+      "answers": [
+        "11"
+      ]
     },
     "9": {
       "attemptsRemaining": 3,
