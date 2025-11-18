@@ -1,6 +1,6 @@
 {
   "username": "Shasha_lyda07",
-  "currentPuzzleIndex": 6,
+  "currentPuzzleIndex": 7,
   "completedPuzzles": [
     1,
     4
@@ -9,7 +9,8 @@
     2,
     3,
     5,
-    6
+    6,
+    7
   ],
   "attempts": {
     "1": {
@@ -88,12 +89,13 @@
       "answers": []
     }
   },
-  "totalFailures": 4,
+  "totalFailures": 5,
   "sessionStartTime": "2025-11-18T23:34:50.347Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
     "screenshotAttempts": 0,
     "rightClickAttempts": 0
   },
-  "gameStatus": "in-progress"
+  "gameStatus": "failed",
+  "sessionEndTime": "2025-11-18T23:51:30.146Z"
 }
