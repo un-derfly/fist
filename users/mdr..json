@@ -1,12 +1,16 @@
 {
   "username": "mdr.",
-  "currentPuzzleIndex": 0,
-  "completedPuzzles": [],
+  "currentPuzzleIndex": 1,
+  "completedPuzzles": [
+    1
+  ],
   "failedPuzzles": [],
   "attempts": {
     "1": {
       "attemptsRemaining": 2,
-      "answers": []
+      "answers": [
+        "10"
+      ]
     },
     "2": {
       "attemptsRemaining": 2,
