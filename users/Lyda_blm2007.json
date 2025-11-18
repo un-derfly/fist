@@ -5,8 +5,10 @@
   "failedPuzzles": [],
   "attempts": {
     "1": {
-      "attemptsRemaining": 2,
-      "answers": []
+      "attemptsRemaining": 1,
+      "answers": [
+        "6"
+      ]
     },
     "2": {
       "attemptsRemaining": 2,
