@@ -1,13 +1,16 @@
 {
   "username": "Lyda_blm2007",
-  "currentPuzzleIndex": 0,
-  "completedPuzzles": [],
+  "currentPuzzleIndex": 1,
+  "completedPuzzles": [
+    1
+  ],
   "failedPuzzles": [],
   "attempts": {
     "1": {
       "attemptsRemaining": 1,
       "answers": [
-        "6"
+        "6",
+        "10"
       ]
     },
     "2": {
