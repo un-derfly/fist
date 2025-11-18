@@ -1,13 +1,14 @@
 {
   "username": "Shasha_lyda07",
-  "currentPuzzleIndex": 4,
+  "currentPuzzleIndex": 5,
   "completedPuzzles": [
     1,
     4
   ],
   "failedPuzzles": [
     2,
-    3
+    3,
+    5
   ],
   "attempts": {
     "1": {
@@ -36,9 +37,10 @@
       ]
     },
     "5": {
-      "attemptsRemaining": 1,
+      "attemptsRemaining": 0,
       "answers": [
-        "Médiathèque"
+        "Médiathèque",
+        "Bibliothèque"
       ]
     },
     "6": {
@@ -82,7 +84,7 @@
       "answers": []
     }
   },
-  "totalFailures": 2,
+  "totalFailures": 3,
   "sessionStartTime": "2025-11-18T23:34:50.347Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
