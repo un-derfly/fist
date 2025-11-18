@@ -1,8 +1,9 @@
 {
   "username": "Lyda_blm2007",
-  "currentPuzzleIndex": 2,
+  "currentPuzzleIndex": 3,
   "completedPuzzles": [
-    1
+    1,
+    3
   ],
   "failedPuzzles": [
     2
@@ -24,7 +25,9 @@
     },
     "3": {
       "attemptsRemaining": 2,
-      "answers": []
+      "answers": [
+        "N"
+      ]
     },
     "4": {
       "attemptsRemaining": 2,
