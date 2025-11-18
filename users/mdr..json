@@ -1,10 +1,12 @@
 {
   "username": "mdr.",
-  "currentPuzzleIndex": 1,
+  "currentPuzzleIndex": 2,
   "completedPuzzles": [
     1
   ],
-  "failedPuzzles": [],
+  "failedPuzzles": [
+    2
+  ],
   "attempts": {
     "1": {
       "attemptsRemaining": 2,
@@ -13,9 +15,10 @@
       ]
     },
     "2": {
-      "attemptsRemaining": 1,
+      "attemptsRemaining": 0,
       "answers": [
-        "42"
+        "42",
+        "4244"
       ]
     },
     "3": {
@@ -59,7 +62,7 @@
       "answers": []
     }
   },
-  "totalFailures": 0,
+  "totalFailures": 1,
   "sessionStartTime": "2025-11-18T20:21:15.157Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
