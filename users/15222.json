@@ -1,12 +1,13 @@
 {
   "username": "15222",
-  "currentPuzzleIndex": 3,
+  "currentPuzzleIndex": 4,
   "completedPuzzles": [
     1
   ],
   "failedPuzzles": [
     2,
-    3
+    3,
+    4
   ],
   "attempts": {
     "1": {
@@ -74,7 +75,7 @@
       "answers": []
     }
   },
-  "totalFailures": 2,
+  "totalFailures": 3,
   "sessionStartTime": "2025-11-18T23:35:09.116Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
