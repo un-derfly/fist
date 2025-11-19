@@ -1,0 +1,76 @@
+{
+  "username": "Shasou_shashou",
+  "currentPuzzleIndex": 0,
+  "completedPuzzles": [],
+  "failedPuzzles": [],
+  "attempts": {
+    "1": {
+      "attemptsRemaining": 2,
+      "answers": []
+    },
+    "2": {
+      "attemptsRemaining": 2,
+      "answers": []
+    },
+    "3": {
+      "attemptsRemaining": 2,
+      "answers": []
+    },
+    "4": {
+      "attemptsRemaining": 2,
+      "answers": []
+    },
+    "5": {
+      "attemptsRemaining": 2,
+      "answers": []
+    },
+    "6": {
+      "attemptsRemaining": 2,
+      "answers": []
+    },
+    "7": {
+      "attemptsRemaining": 3,
+      "answers": []
+    },
+    "8": {
+      "attemptsRemaining": 3,
+      "answers": []
+    },
+    "9": {
+      "attemptsRemaining": 3,
+      "answers": []
+    },
+    "10": {
+      "attemptsRemaining": 4,
+      "answers": []
+    },
+    "11": {
+      "attemptsRemaining": 4,
+      "answers": []
+    },
+    "12": {
+      "attemptsRemaining": 4,
+      "answers": []
+    },
+    "13": {
+      "attemptsRemaining": 2,
+      "answers": []
+    },
+    "14": {
+      "attemptsRemaining": 3,
+      "answers": []
+    },
+    "15": {
+      "attemptsRemaining": 4,
+      "answers": []
+    }
+  },
+  "totalFailures": 0,
+  "sessionStartTime": "2025-11-19T00:07:25.377Z",
+  "antiCheatFlags": {
+    "copyAttempts": 0,
+    "screenshotAttempts": 0,
+    "rightClickAttempts": 0
+  },
+  "gameStatus": "in-progress"
+}
