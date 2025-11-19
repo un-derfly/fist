@@ -1,11 +1,12 @@
 {
   "username": "Shasha_shasha00",
-  "currentPuzzleIndex": 8,
+  "currentPuzzleIndex": 9,
   "completedPuzzles": [
     1,
     3,
     4,
-    5
+    5,
+    9
   ],
   "failedPuzzles": [
     2,
@@ -64,7 +65,9 @@
     },
     "9": {
       "attemptsRemaining": 3,
-      "answers": []
+      "answers": [
+        "Une éponge"
+      ]
     },
     "10": {
       "attemptsRemaining": 4,
