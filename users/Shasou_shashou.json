@@ -21,8 +21,10 @@
       ]
     },
     "3": {
-      "attemptsRemaining": 2,
-      "answers": []
+      "attemptsRemaining": 1,
+      "answers": [
+        "Rien"
+      ]
     },
     "4": {
       "attemptsRemaining": 2,
