@@ -44,8 +44,10 @@
       ]
     },
     "6": {
-      "attemptsRemaining": 2,
-      "answers": []
+      "attemptsRemaining": 1,
+      "answers": [
+        "Vent"
+      ]
     },
     "7": {
       "attemptsRemaining": 3,
