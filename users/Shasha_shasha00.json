@@ -77,8 +77,10 @@
       ]
     },
     "11": {
-      "attemptsRemaining": 2,
-      "answers": []
+      "attemptsRemaining": 1,
+      "answers": [
+        "89"
+      ]
     },
     "12": {
       "attemptsRemaining": 4,
