@@ -1,8 +1,9 @@
 {
   "username": "Shasou_shashou",
-  "currentPuzzleIndex": 3,
+  "currentPuzzleIndex": 4,
   "completedPuzzles": [
-    1
+    1,
+    4
   ],
   "failedPuzzles": [
     2,
@@ -30,7 +31,9 @@
     },
     "4": {
       "attemptsRemaining": 2,
-      "answers": []
+      "answers": [
+        "Ordure"
+      ]
     },
     "5": {
       "attemptsRemaining": 2,
