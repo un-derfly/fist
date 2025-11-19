@@ -1,6 +1,6 @@
 {
   "username": "Shasha_shasha00",
-  "currentPuzzleIndex": 6,
+  "currentPuzzleIndex": 7,
   "completedPuzzles": [
     1,
     3,
@@ -9,7 +9,8 @@
   ],
   "failedPuzzles": [
     2,
-    6
+    6,
+    7
   ],
   "attempts": {
     "1": {
@@ -85,7 +86,7 @@
       "answers": []
     }
   },
-  "totalFailures": 2,
+  "totalFailures": 3,
   "sessionStartTime": "2025-11-19T00:40:02.956Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
