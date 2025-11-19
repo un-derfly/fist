@@ -1,11 +1,12 @@
 {
   "username": "Shasou_shashou",
-  "currentPuzzleIndex": 2,
+  "currentPuzzleIndex": 3,
   "completedPuzzles": [
     1
   ],
   "failedPuzzles": [
-    2
+    2,
+    3
   ],
   "attempts": {
     "1": {
@@ -21,9 +22,10 @@
       ]
     },
     "3": {
-      "attemptsRemaining": 1,
+      "attemptsRemaining": 0,
       "answers": [
-        "Rien"
+        "Rien",
+        "La lettre s"
       ]
     },
     "4": {
@@ -75,7 +77,7 @@
       "answers": []
     }
   },
-  "totalFailures": 1,
+  "totalFailures": 2,
   "sessionStartTime": "2025-11-19T00:07:25.377Z",
   "antiCheatFlags": {
     "copyAttempts": 0,
