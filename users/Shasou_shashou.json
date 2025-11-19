@@ -7,9 +7,7 @@
   ],
   "failedPuzzles": [
     2,
-    3,
-    5,
-    6
+    3
   ],
   "attempts": {
     "1": {
@@ -38,18 +36,12 @@
       ]
     },
     "5": {
-      "attemptsRemaining": 0,
-      "answers": [
-        "Médiathèque",
-        "Bibliothèque"
-      ]
+      "attemptsRemaining": 4,
+      "answers": []
     },
     "6": {
-      "attemptsRemaining": 0,
-      "answers": [
-        "Vent",
-        "Avenir"
-      ]
+      "attemptsRemaining": 3,
+      "answers": []
     },
     "7": {
       "attemptsRemaining": 3,
