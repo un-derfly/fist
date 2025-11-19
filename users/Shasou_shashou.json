@@ -36,8 +36,10 @@
       ]
     },
     "5": {
-      "attemptsRemaining": 2,
-      "answers": []
+      "attemptsRemaining": 1,
+      "answers": [
+        "Médiathèque"
+      ]
     },
     "6": {
       "attemptsRemaining": 2,
