@@ -1,12 +1,13 @@
 {
   "username": "Shasha_shasha00",
-  "currentPuzzleIndex": 9,
+  "currentPuzzleIndex": 10,
   "completedPuzzles": [
     1,
     3,
     4,
     5,
-    9
+    9,
+    10
   ],
   "failedPuzzles": [
     2,
@@ -71,7 +72,9 @@
     },
     "10": {
       "attemptsRemaining": 4,
-      "answers": []
+      "answers": [
+        "9"
+      ]
     },
     "11": {
       "attemptsRemaining": 4,
